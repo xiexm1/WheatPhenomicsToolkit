@@ -1,0 +1,6 @@
+ultralytics==8.3.200
+openai==8.3.200
+opencv-python==4.11.0.86
+pillow==10.4.0
+numpy==1.26.4
+httpx==0.28.1

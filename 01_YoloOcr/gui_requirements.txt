@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pillow
+openai
+httpx
+pyinstaller
+numpy

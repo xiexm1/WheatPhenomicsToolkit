@@ -1,0 +1,12 @@
+# 忽略虚拟环境
+.venv/
+# 忽略打包生成的文件夹和可执行文件
+build/
+dist/
+images/
+# 忽略依赖文件
+__pycache__/
+*.spec
+# 忽略部分文件
+all.txt
+check.html
